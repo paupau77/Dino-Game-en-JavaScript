@@ -4,6 +4,11 @@ Un clon simple y casero del clásico juego del dinosaurio de Chrome, hecho con *
 El jugador controla un pequeño dino que debe saltar obstáculos para acumular puntos.  
 
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## ✨ Características
 - ✅ Juego completamente en el navegador  
 - ✅ Mecánica de salto y colisión  
@@ -30,17 +35,6 @@ El jugador controla un pequeño dino que debe saltar obstáculos para acumular p
    git clone https://github.com/tuusuario/dino-game.git
 
 2. Abrir index.html en tu navegador.
-
-
-
-
----
-
-🏅 Badges
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
